@@ -89,35 +89,3 @@ Any contributions you make are **greatly appreciated**.
 2. Commit your Changes (`git commit -m 'Add some code'`)
 3. Push to the Branch (`git push origin master/test-branch`)
 4. Open a Pull Request
-
-<!-- LICENSE -->
-
-## License 📝 
-
-Distributed under the MIT License. See [`LICENSE`][license-url] for more information.
-
-<!-- CONTACT -->
-
-## Authors :closed_book: 
-
-- [Aman Ansari](https://github.com/aman-atg)
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## Acknowledgements :checkered_flag: 
-
-- [UXwing](https://uxwing.com)
-- [Frontend Mentors](http://frontendmentor.io)
-- [Challenge Link](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt)
-- [My Solution](https://www.frontendmentor.io/solutions/animated-job-listing-site-with-drag-and-drop-react-scss-lCamCeYXR)
-
-  <!-- MARKDOWN LINKS & IMAGES -->
-
-[forks-shield]: https://img.shields.io/github/forks/aman-atg/Job-Listing-Demo-Site.svg?style=flat-square
-[forks-url]: https://github.com/aman-atg/Job-Listing-Demo-Site/network/members
-[stars-shield]: https://img.shields.io/github/stars/aman-atg/Job-Listing-Demo-Site.svg?style=flat-square
-[stars-url]: https://github.com/aman-atg/Job-Listing-Demo-Site/stargazers
-[issues-shield]: https://img.shields.io/github/issues/aman-atg/Job-Listing-Demo-Site.svg?style=flat-square
-[issues-url]: https://github.com/aman-atg/Job-Listing-Demo-Site/issues
-[license-shield]: https://img.shields.io/github/license/aman-atg/Job-Listing-Demo-Site.svg?style=flat-square
-[license-url]: https://github.com/aman-atg/Job-Listing-Site/blob/master/LICENSE
