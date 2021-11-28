@@ -1,230 +1,154 @@
-Contribution: 2020-02-18 20:00
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e18889a4eda14c14b99db048718e411a)](https://app.codacy.com/manual/aman-atg/Job-Listing-Demo-Site?utm_source=github.com&utm_medium=referral&utm_content=aman-atg/Job-Listing-Demo-Site&utm_campaign=Badge_Grade_Dashboard)
+![Maintained](https://img.shields.io/maintenance/yes/2020)
+[![MIT License][license-shield]][license-url]
 
-Contribution: 2020-02-18 20:01
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://job-listing-page.now.sh">
+    <img src="Readme/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-Contribution: 2020-02-18 20:02
+  <h3 align="center">Job Listing Site (Demo)</h3>
 
-Contribution: 2020-02-20 20:00
+  <p align="center">
+  Interactive Site with a list of jobs which can be easily filtered
+    <br />
+    <h4 align="center">Give a star ⭐ if you like it ❤️  </h4>
+    <br/>
+    <p align="center"> 
+    :link: <a href="https://job-listing-page.now.sh">  Live Demo</a>
+    &#8226; 
+   :bug: <a href="https://github.com/aman-atg/ Job-Listing-Demo-Site/issues">Report Bug</a>
+    &#8226; 
+    :sparkles:<a href="https://github.com/aman-atg/Job-Listing-Demo/issues">Request Feature</a></p>
+     
+  </p>
+</p>
 
-Contribution: 2020-02-28 20:00
+<!-- TABLE OF CONTENTS -->
 
-Contribution: 2020-02-28 20:01
+## Table of Contents 📋 
 
-Contribution: 2020-02-28 20:02
+- [About the Project](#about-the-project-eyes)
+  - [Built With](#built-with-hammer)
+- [Getting Started](#getting-started-)
+  - [Prerequisites](#prerequisites-)
+  - [Installation](#installation-arrow_down)
+- [Usage](#usage-dart)
+- [Contributing](#contributing-)
+- [License](#license-)
+- [Authors](#authors-closed_book)
+- [Acknowledgements](#acknowledgements-checkered_flag)
 
-Contribution: 2020-03-02 20:00
+<!-- ABOUT THE PROJECT -->
 
-Contribution: 2020-03-02 20:01
+## About The Project :eyes: 
 
-Contribution: 2020-03-02 20:02
+This is my Solution for Frontend Mentors' Challenge.
 
-Contribution: 2020-03-05 20:00
+<p align="center">
 
-Contribution: 2020-03-05 20:01
+ <img  src="./Readme/github-preview-0.gif"> 
+<br >
+<br/>
+<img src="./Readme/github-preview-1.gif"/>
 
-Contribution: 2020-03-05 20:02
+</p>
 
-Contribution: 2020-03-06 20:00
+### Built With :hammer:
 
-Contribution: 2020-03-06 20:01
+- [React](https://reactjs.com) - A JS library for building user interfaces
+- [SCSS](https://sass-lang.com) - CSS with superpowers
+- [React-Beautiful-Dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
+- [Node-sass](https://github.com/sass/node-sass) - Node.js bindings to libsass
+- [Classnames](https://www.npmjs.com/package/classnames) - A simple JavaScript utility for conditionally joining classNames together
 
-Contribution: 2020-03-10 20:00
+<!-- GETTING STARTED -->
 
-Contribution: 2020-03-10 20:01
+## Getting Started 🚀 
 
-Contribution: 2020-03-11 20:00
+To get a local copy up and running follow these simple example steps.
 
-Contribution: 2020-03-11 20:01
+### Prerequisites 💻 
 
-Contribution: 2020-03-11 20:02
+- Node ([Download here!](https://nodejs.org/en/download))
 
-Contribution: 2020-03-12 20:00
+### Installation :arrow_down: 
 
-Contribution: 2020-03-13 20:00
+**1.** Fork [this](https://github.com/aman-atg/react-product-card) repository :fork_and_knife:
 
-Contribution: 2020-03-13 20:01
+**2.** Clone your forked repository to your local system :busts_in_silhouette:
 
-Contribution: 2020-03-13 20:02
+```sh
+git clone https://github.com/<your-username>/react-product-card.git
+```
 
-Contribution: 2020-03-14 20:00
+Or Download and extract the zip file.
 
-Contribution: 2020-03-14 20:01
+### Running
 
-Contribution: 2020-03-22 20:00
+**1.** Install NPM packages :arrow_down:
 
-Contribution: 2020-03-22 20:01
+```sh
+npm install
+```
 
-Contribution: 2020-03-22 20:02
+**2.** Run! :running_man:
 
-Contribution: 2020-03-23 20:00
+```sh
+npm start
+```
 
-Contribution: 2020-03-26 20:00
+<!-- USAGE EXAMPLES -->
 
-Contribution: 2020-03-29 20:00
+## Usage :dart: 
 
-Contribution: 2020-03-29 20:01
+- Explore this Project to see how easily you can implement **_Drag and Drop_** Feature with [React-Beautiful-Dnd](https://github.com/atlassian/react-beautiful-dnd) for your next project.
+- Handle Stylesheets using **_ITCSS Architecture_**.
 
-Contribution: 2020-03-29 20:02
+<!-- CONTRIBUTING -->
 
-Contribution: 2020-03-30 20:00
+## Contributing 🤝 
 
-Contribution: 2020-03-31 20:00
+Any contributions you make are **greatly appreciated**.
 
-Contribution: 2020-03-31 20:01
+1. Create your Branch (`git checkout -b master/test-branch`)
+2. Commit your Changes (`git commit -m 'Add some code'`)
+3. Push to the Branch (`git push origin master/test-branch`)
+4. Open a Pull Request
 
-Contribution: 2020-04-04 20:00
+<!-- LICENSE -->
 
-Contribution: 2020-04-04 20:01
+## License 📝 
 
-Contribution: 2020-04-06 20:00
+Distributed under the MIT License. See [`LICENSE`][license-url] for more information.
 
-Contribution: 2020-04-06 20:01
+<!-- CONTACT -->
 
-Contribution: 2020-04-06 20:02
+## Authors :closed_book: 
 
-Contribution: 2020-04-07 20:00
+- [Aman Ansari](https://github.com/aman-atg)
 
-Contribution: 2020-04-07 20:01
+<!-- ACKNOWLEDGEMENTS -->
 
-Contribution: 2020-04-07 20:02
+## Acknowledgements :checkered_flag: 
 
-Contribution: 2020-04-10 20:00
+- [UXwing](https://uxwing.com)
+- [Frontend Mentors](http://frontendmentor.io)
+- [Challenge Link](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt)
+- [My Solution](https://www.frontendmentor.io/solutions/animated-job-listing-site-with-drag-and-drop-react-scss-lCamCeYXR)
 
-Contribution: 2020-04-10 20:01
+  <!-- MARKDOWN LINKS & IMAGES -->
 
-Contribution: 2020-04-13 20:00
-
-Contribution: 2020-04-13 20:01
-
-Contribution: 2020-04-13 20:02
-
-Contribution: 2020-04-20 20:00
-
-Contribution: 2020-04-20 20:01
-
-Contribution: 2020-04-20 20:02
-
-Contribution: 2020-04-21 20:00
-
-Contribution: 2020-04-21 20:01
-
-Contribution: 2020-04-21 20:02
-
-Contribution: 2020-04-28 20:00
-
-Contribution: 2020-04-29 20:00
-
-Contribution: 2020-04-29 20:01
-
-Contribution: 2020-04-29 20:02
-
-Contribution: 2020-05-01 20:00
-
-Contribution: 2020-05-01 20:01
-
-Contribution: 2020-05-05 20:00
-
-Contribution: 2020-05-05 20:01
-
-Contribution: 2020-05-05 20:02
-
-Contribution: 2020-05-06 20:00
-
-Contribution: 2020-05-08 20:00
-
-Contribution: 2020-05-08 20:01
-
-Contribution: 2020-05-08 20:02
-
-Contribution: 2020-05-10 20:00
-
-Contribution: 2020-05-10 20:01
-
-Contribution: 2020-05-15 20:00
-
-Contribution: 2020-05-16 20:00
-
-Contribution: 2020-05-16 20:01
-
-Contribution: 2020-05-17 20:00
-
-Contribution: 2020-05-17 20:01
-
-Contribution: 2020-05-21 20:00
-
-Contribution: 2020-05-21 20:01
-
-Contribution: 2020-05-21 20:02
-
-Contribution: 2020-05-26 20:00
-
-Contribution: 2020-05-28 20:00
-
-Contribution: 2020-05-28 20:01
-
-Contribution: 2020-05-28 20:02
-
-Contribution: 2020-05-29 20:00
-
-Contribution: 2020-05-30 20:00
-
-Contribution: 2020-06-01 20:00
-
-Contribution: 2020-06-01 20:01
-
-Contribution: 2020-06-03 20:00
-
-Contribution: 2020-06-05 20:00
-
-Contribution: 2020-06-05 20:01
-
-Contribution: 2020-06-05 20:02
-
-Contribution: 2020-06-10 20:00
-
-Contribution: 2020-06-10 20:01
-
-Contribution: 2020-06-14 20:00
-
-Contribution: 2020-06-14 20:01
-
-Contribution: 2020-06-14 20:02
-
-Contribution: 2020-06-15 20:00
-
-Contribution: 2020-06-17 20:00
-
-Contribution: 2020-06-23 20:00
-
-Contribution: 2020-06-24 20:00
-
-Contribution: 2020-06-25 20:00
-
-Contribution: 2020-06-25 20:01
-
-Contribution: 2020-06-25 20:02
-
-Contribution: 2020-06-26 20:00
-
-Contribution: 2020-06-28 20:00
-
-Contribution: 2020-06-28 20:01
-
-Contribution: 2020-07-04 20:00
-
-Contribution: 2020-07-04 20:01
-
-Contribution: 2020-07-04 20:02
-
-Contribution: 2020-07-05 20:00
-
-Contribution: 2020-07-05 20:01
-
-Contribution: 2020-07-06 20:00
-
-Contribution: 2020-07-09 20:00
-
-Contribution: 2020-07-14 20:00
-
-Contribution: 2020-07-14 20:01
-
+[forks-shield]: https://img.shields.io/github/forks/aman-atg/Job-Listing-Demo-Site.svg?style=flat-square
+[forks-url]: https://github.com/aman-atg/Job-Listing-Demo-Site/network/members
+[stars-shield]: https://img.shields.io/github/stars/aman-atg/Job-Listing-Demo-Site.svg?style=flat-square
+[stars-url]: https://github.com/aman-atg/Job-Listing-Demo-Site/stargazers
+[issues-shield]: https://img.shields.io/github/issues/aman-atg/Job-Listing-Demo-Site.svg?style=flat-square
+[issues-url]: https://github.com/aman-atg/Job-Listing-Demo-Site/issues
+[license-shield]: https://img.shields.io/github/license/aman-atg/Job-Listing-Demo-Site.svg?style=flat-square
+[license-url]: https://github.com/aman-atg/Job-Listing-Site/blob/master/LICENSE
